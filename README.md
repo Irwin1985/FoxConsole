@@ -31,3 +31,7 @@ Else
     _vfp.cli.Println("Te falta mucho para ser un veterano...")
 Endif
 ```
+
+## Credits
+
+[Win32API by tbleken](https://github.com/VFPX/Win32API)
