@@ -182,6 +182,7 @@ define class console as custom
 	endfunc
 
 	function exit(tnReturnValue)
+		FLUSH FORCE
 		=ExitProcess(tnReturnValue)
 	endfunc
 
